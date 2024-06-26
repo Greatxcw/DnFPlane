@@ -21,9 +21,7 @@ we propose an efficient algorithm designed to address the reconstruction challen
 
 ## DnFPlane VS LerPlane in terms of rendering quality
 
-https://github.com/Greatxcw/DnFPlane/assets/118790158/c15fd191-8a39-4d1f-9bdc-e4f6d794fe80
-
-
+https://github.com/Greatxcw/DnFPlane/assets/118790158/1cf59d5f-9ce2-453c-95cf-1fcc1f0a5acc
 
 ## Installation
 
